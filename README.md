@@ -2,7 +2,6 @@
 
 ## Project Overview
 This Power BI dashboard analyzes historical sales trends and predicts future sales using forecasting techniques.
-
 ## Features
 - Sales Trend Analysis
 - Forecast Visualization
